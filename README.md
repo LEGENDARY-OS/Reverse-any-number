@@ -1,7 +1,7 @@
 ### C++ Program to Reverse an Integer
-Made by Dhrubamoy Mandal
-student of St marys school malda
-i dont know who else have made this program but i made it by my own
+- Made by Dhrubamoy Mandal
+- student of St marys school malda
+- i dont know who else have made this program but i made it by my own
 
 # Contact Details
 
